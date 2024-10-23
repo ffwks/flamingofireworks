@@ -1,1 +1,1 @@
-# flamingofireworks test page
+# flamingofireworks
